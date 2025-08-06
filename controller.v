@@ -1,6 +1,3 @@
-//JAY SHREE RAM JAY SHREE SHYAM
-//ALU OpCODE
-
 
 `define ALU_NOT   4'b0110
 `define ALU_OR    4'b1001
